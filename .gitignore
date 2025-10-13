@@ -1,0 +1,13 @@
+# MacOS temp files
+.DS_Store*
+._.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*~
+\#*\#
+*.autosave
+
+# DrawIO temporary files
+*.dtmp
+*.bkp
